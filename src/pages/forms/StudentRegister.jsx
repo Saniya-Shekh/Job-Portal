@@ -5,7 +5,7 @@ const StudentRegister = () => {
   
   return (
     <div>
-     student
+     studentRegister
     </div>
   )
 }
