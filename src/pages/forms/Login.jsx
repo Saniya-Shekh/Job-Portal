@@ -19,7 +19,7 @@ const Login = () => {
     }, 
     {
       label: 'Password',
-      placeholder: 'Enter Password',
+      placeholder: 'Enter Your Password',
       type: 'password',
       name: 'password',
       value: password
